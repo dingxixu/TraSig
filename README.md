@@ -55,7 +55,7 @@ conda install pip
 Then install TraSig, together with all its dependencies by: 
 
 ```shell
-pip install git+https://github.com/doraadong/TraSig.git
+pip install git+git://github.com/doraadong/TraSig.git
 ```
 
 If you want to upgrade TraSig to the newest version, then first uninstall it by:
